@@ -27,121 +27,83 @@ Here are some ideas to get you started:
 
 
 ---
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Computer Science Engineering student at **PES University** with a passion for **AI-powered applications** and **full-stack development**. I specialize in building intelligent systems that solve real-world problems through cutting-edge technology.
+Computer Science Engineering student at **PES University (2027)** passionate about building intelligent systems using **AI, Data Science, and scalable software engineering**.
+
+I enjoy transforming data into meaningful insights and building systems that combine Machine Learning, Generative AI, and Cloud technologies.
 
 <br>
 
-🎯 **Currently focusing on:** Agentic AI systems, RAG architectures, and scalable web applications  
-🌱 **Learning:** Advanced ML techniques, LLM fine-tuning, and cloud deployment strategies  
-🏆 **Achievement:** 1st place winner in Maaya 2024 ML competition among 80+ participants  
-📚 **Academic:** Maintaining top 20% performance university-wide (CGPA: 8.66)  
-💼 **Open to:** AI/ML roles, Full-stack positions, and exciting collaborations
+🎯 **Currently focusing on:** ML Systems, Agentic AI, RAG pipelines, and Distributed Computing
+
+🌱 **Learning:** Deep Learning, MLOps, Cloud Architecture, and System Design
+
+💼 **Experience:** Data Analytics Intern @ Centre of Data Modelling and Visualization, PES University
+
+🏆 **Achievement:** Prof. C.N.R Rao Scholarship recipient (Top 20%)
+
+💡 **Interests:** AI Engineering, Data Analytics, Cloud Systems & Software Development
 
 <br clear="both"/>
 
----
-
 ## 💡 What I Build
 
-<div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
 
-### 🤖 AI-Powered Applications
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+<td width="50%" align="center">
 
-- **Intelligent CRM agents** that process 1000+ customer records
-- **RAG chatbots** with <3 second response times and 80% accuracy  
-- **Team matching platforms** using LangChain recommendation systems
+### 🤖 AI & Data Systems
 
-</td>
-<td align="center" width="50%">
-
-### 🌐 Full-Stack Solutions
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
-
-- Scalable web applications with React and Node.js
-- RESTful APIs handling complex business logic
-- Real-time systems with seamless user experiences
+- Maritime anomaly detection using ML
+- Reinforcement Learning trading agents
+- RAG pipelines and AI assistants
+- Data analytics & predictive modeling
 
 </td>
+
+
+<td width="50%" align="center">
+
+### ⚙️ Scalable Software Systems
+
+- RAFT-based distributed applications
+- Kafka-powered processing pipelines
+- Cloud-native applications
+- Backend architectures
+
+</td>
+
 </tr>
 </table>
-</div>
 
----
+Python • TensorFlow • PyTorch
+Machine Learning • Deep Learning
+Reinforcement Learning
+RAG • LLMs • Agentic AI
+Pandas • NumPy • Scikit-learn
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+### 📊 Data Analytics
 
-<div align="center">
+Power BI • Excel • SQL
+Feature Engineering
+Data Visualization
+SHAP Explainability
 
-### 🤖 AI & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI ML" />
-<br>
-<code>LangChain • LangGraph • CrewAI • RAG • scikit-learn • Keras</code>
-</p>
+### 🏆 Maritime Intelligence System
 
-### 🖥️ Backend Development  
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" alt="Backend" />
-<br>
-<code>Node.js • Express.js • FastAPI • RESTful APIs</code>
-</p>
+Machine Learning based anomaly detection system
 
-### 🎨 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" alt="Frontend" />
-<br>
-<code>React • JavaScript • HTML5 • Tailwind CSS • Streamlit</code>
-</p>
+Tech:
+Python | ML | Federated Learning | Data Analytics
 
-### 🗄️ Databases & Storage
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" alt="Databases" />
-<br>
-<code>MongoDB • PostgreSQL • MySQL • ChromaDB • Pinecone</code>
-</p>
-
-### ⚙️ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" alt="DevOps" />
-<br>
-<code>Docker • Git • VS Code • Postman • LangSmith • LangGraph Studio</code>
-</p>
-
-</div>
-
----
-
-<h2 align="center">🎯 Featured Projects</h2>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🏆 [BandhanAI](https://github.com/YourUsername/BandhanAI)
-**AI CRM Agent**
-
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
-
-**Tech Stack:** `LangGraph` `LangChain` `Open Source LLMs`
-
-📈 **Impact:**
-- 🔸 **1000+** customer records processed
-- 🔸 **70%** reduction in campaign creation time  
-- 🔸 **500+** targeted emails with 95% delivery rate
-- 🔸 **9** campaign types supported
-
-</td>
-<td width="50%">
+Highlights:
+- AIS + Radar feature engineering
+- Explainable severity scoring
+- Distributed model training
 
 ### 💬 [LangChain RAG Chatbot](https://github.com/YourUsername/RAG-Chatbot)
 **Document Q&A System**
