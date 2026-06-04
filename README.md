@@ -94,7 +94,12 @@ Data Visualization
 SHAP Explainability
 
 ### 🏆 Maritime Intelligence System
-<img src="[C:\Users\HP\Downloads\crash boat GIF.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpoMmcza3hjamppdGN5MDhwbDBhZnhhZ2JpZXVuY3QycXliaG9rOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/135zStc5hvtaMg/giphy.gif)"/>
+<div align="center">
+<img 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpoMmcza3hjamppdGN5MDhwbDBhZnhhZ2JpZXVuY3QycXliaG9rOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/135zStc5hvtaMg/giphy.gif" 
+width="300"
+/>
+</div>
 
 Machine Learning based anomaly detection system
 
