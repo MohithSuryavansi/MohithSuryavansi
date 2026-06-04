@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohammed%20Musharraf&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mohithkumar%20M%20S&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Science%20%7C%20Cloud%20Systems&descAlignY=60&descSize=18)
 
 </div>
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems;AI-Powered+Applications+%26+Solutions;LangChain+%7C+RAG+%7C+Full-Stack+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=850&height=100&lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+Data+Science+%7C+Cloud;RAG+%7C+Agentic+AI+%7C+Distributed+Systems)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 
