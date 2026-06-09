@@ -225,15 +225,20 @@ alt="Activity Graph"/>
 <tr>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="80"/>
-<br><b>🥇 1st Place</b>
+<br><b>🥇 top 10</b>
 <br>Coding Competition 
-<br><i>80+ participants</i>
+<br><i>500+ participants</i>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/26ufcVAp3AiInCA9O/giphy.gif" width="80"/>
 <br><b>🎓 Scholarship</b>
 <br>Prof. C.N.R. Rao Scholarship
 <br><i>Academic Excellence</i>
+</td>
+  <td align="center" width="25%">
+<br><b>🌍 AIESEC Member</b>
+<br>Leadership & Collaboration
+<br><i>Global Youth Organization</i>
 </td>
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/l3vRgiN4fSg8NU9y0/giphy.gif" width="80"/>
