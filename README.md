@@ -140,7 +140,7 @@ width="300"
 ### 📈 Stock Trading using Reinforcement Learning
 **AI-Based Trading Decision System**
 
-<img src="YOUR_GIF_LINK" width="300"/>
+<img src="assets/Crypto Penguin GIF by Pudgy Penguins.gif" width="300"/>
 
 **Tech Stack:** `Python` `Deep RL` `DQN` `PPO` `A2C` `OpenAI Gym`
 
@@ -166,7 +166,7 @@ width="300"
   ### 🤝 Multi-Agent Financial Intelligence System
 **Agentic AI Financial Analysis Platform**
 
-<img src="YOUR_GIF_LINK" width="300"/>
+<img src="assets/To The Moon Crypto GIF by Magic Eden.gif" width="300"/>
 
 **Tech Stack:** `Python` `Groq LLM` `AI Agents` `APIs`
 
