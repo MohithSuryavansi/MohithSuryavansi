@@ -111,61 +111,112 @@ Highlights:
 - Explainable severity scoring
 - Distributed model training
 
-### 💬 [LangChain RAG Chatbot](https://github.com/YourUsername/RAG-Chatbot)
-**Document Q&A System**
+### ⚡ Inkraft — Distributed Collaborative Whiteboard
+**Fault-Tolerant Real-Time Collaboration Platform**
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+<img src="YOUR_GIF_LINK" width="300"/>
 
-**Tech Stack:** `LangChain` `ChromaDB` `FastAPI` `Docker`
+**Tech Stack:** `Python` `WebSockets` `Raft` `Docker` `Kubernetes`
 
-📈 **Performance:**
-- 🔸 **5,000+** document chunks processed
-- 🔸 **<3 sec** response time
-- 🔸 **80%** answer accuracy
-- 🔸 **75%** faster setup with Docker
+📈 **Highlights:**
+- 🔸 Built a real-time multi-user drawing system with WebSocket synchronization
+- 🔸 Implemented Raft consensus with leader election and log replication
+- 🔸 Designed fault-tolerant distributed replicas with automatic recovery
+- 🔸 Containerized services using Docker and orchestrated deployments with Kubernetes
+- 
+### 🤖 Autonomous Ticket Triage using RAG
+**LLM-Powered Workflow Automation System**
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+<img src="YOUR_GIF_LINK" width="300"/>
 
-### 🤝 [TeamBanalo](https://github.com/YourUsername/TeamBanalo) - AI Team Matching Platform
+**Tech Stack:** `Python` `LLMs` `RAG` `Vector DB` `FastAPI`
+
+📈 **Highlights:**
+- 🔸 Built a Retrieval-Augmented Generation system for intelligent ticket routing
+- 🔸 Implemented semantic search using embeddings and vector similarity matching
+- 🔸 Integrated LLM reasoning for context-aware classification decisions
+- 🔸 Automated workflow routing to reduce manual ticket handling
+
+### 📈 Stock Trading using Reinforcement Learning
+**AI-Based Trading Decision System**
+
+<img src="YOUR_GIF_LINK" width="300"/>
+
+**Tech Stack:** `Python` `Deep RL` `DQN` `PPO` `A2C` `OpenAI Gym`
+
+📈 **Highlights:**
+- 🔸 Developed reinforcement learning agents for automated trading strategies
+- 🔸 Trained models using 20+ years of historical market data
+- 🔸 Engineered financial indicators for state representation
+- 🔸 Evaluated strategies using Sharpe ratio, returns, and backtesting
+
+  ### 🖼️ Real-Time Distributed Image Processing Pipeline
+**Scalable Cloud-Based Processing System**
+
+<img src="YOUR_GIF_LINK" width="300"/>
+
+**Tech Stack:** `Python` `Apache Kafka` `OpenCV` `Distributed Systems`
+
+📈 **Highlights:**
+- 🔸 Designed Kafka-based distributed pipeline for large-scale image processing
+- 🔸 Implemented master-worker architecture for parallel task execution
+- 🔸 Processed image tiles asynchronously across multiple worker nodes
+- 🔸 Built monitoring dashboard for worker health and processing status
+
+  ### 🤝 Multi-Agent Financial Intelligence System
+**Agentic AI Financial Analysis Platform**
+
+<img src="YOUR_GIF_LINK" width="300"/>
+
+**Tech Stack:** `Python` `Groq LLM` `AI Agents` `APIs`
+
+📈 **Highlights:**
+- 🔸 Built multi-agent system with specialized AI agents collaborating on tasks
+- 🔸 Integrated financial APIs for stock prices, news, and market insights
+- 🔸 Combined web search and financial agents for automated research
+- 🔸 Generated structured financial summaries for decision support
+
+
+  <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+
+<img width="400" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=MohithSuryavansi&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" 
+alt="GitHub Streak" />
+
+<img width="400" 
+src="https://github-readme-stats.vercel.app/api?username=MohithSuryavansi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B35&text_color=FFF&icon_color=FF6B35" 
+alt="GitHub Stats" />
+
 </div>
 
-**Tech Stack:** `React` `LangChain` `Google OAuth` `Node.js`
-
-📈 **Results:** Reduces team search from **2+ hours to 5 minutes** | **15+ API endpoints** | **25+ skill categories** analyzed
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMusharraf11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="GitHub Streak" />
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=MohammedMusharraf11&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B35&text_color=FFF&icon_color=FF6B35" alt="GitHub Stats" />
+
+<img width="600" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohithSuryavansi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF6B35&text_color=FFF" 
+alt="Top Languages" />
+
 </div>
+
 
 <div align="center">
-<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMusharraf11&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF6B35&text_color=FFF" alt="Top Languages" />
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohithSuryavansi&theme=radical" 
+alt="Profile Summary"/>
+
 </div>
+
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedMusharraf11&theme=radical" alt="Profile Summary"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedMusharraf11&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=MohithSuryavansi&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true" 
+alt="Activity Graph"/>
 
----
+</div>
 
 <h2 align="center">🏆 Achievements & Recognition</h2>
 
@@ -175,7 +226,7 @@ Highlights:
 <td align="center" width="25%">
 <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="80"/>
 <br><b>🥇 1st Place</b>
-<br>Maaya 2024 ML Competition
+<br>Coding Competition 
 <br><i>80+ participants</i>
 </td>
 <td align="center" width="25%">
@@ -190,11 +241,6 @@ Highlights:
 <br>University Performance
 
 </td>
-<td align="center" width="25%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="80"/>
-<br><b>👨‍🏫 Mentor</b>
-<br>Technical Guide
-<br><i>30+ participants</i>
 </td>
 </tr>
 </table>
@@ -204,10 +250,9 @@ Highlights:
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mohammedmusharraf.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-musharraf11/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammusharraf11@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mush_xxf)
+[![Portfolio]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohithkumar-ms-369315259/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithsuryavansi@gmail.com)
 
 </div>
 
