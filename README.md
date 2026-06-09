@@ -98,7 +98,7 @@ SHAP Explainability
 
 <div align="center">
 <img 
-src="assets/crash-boat.gif" 
+src="assets/crash boat GIF.gif" 
 width="300"
 />
 </div>
