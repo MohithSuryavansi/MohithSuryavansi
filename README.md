@@ -93,7 +93,9 @@ Feature Engineering
 Data Visualization
 SHAP Explainability
 
-### 🏆 Maritime Intelligence System
+### 🌊 Maritime Intelligence System
+**AI-Powered Vessel Anomaly Detection Platform**
+
 <div align="center">
 <img 
 src="assets/crash-boat.gif" 
@@ -101,15 +103,13 @@ width="300"
 />
 </div>
 
-Machine Learning based anomaly detection system
+**Tech Stack:** `Python` `Machine Learning` `Isolation Forest` `Federated Learning` `Data Analytics`
 
-Tech:
-Python | ML | Federated Learning | Data Analytics
-
-Highlights:
-- AIS + Radar feature engineering
-- Explainable severity scoring
-- Distributed model training
+📈 **Highlights:**
+- 🔸 Built an AIS + Radar-based anomaly detection system for identifying abnormal vessel behavior
+- 🔸 Engineered trajectory-driven features from vessel movement patterns and signal data
+- 🔸 Designed an explainable severity scoring framework for risk classification
+- 🔸 Implemented federated learning for decentralized and privacy-preserving model training
 
 ### ⚡ Inkraft — Distributed Collaborative Whiteboard
 **Fault-Tolerant Real-Time Collaboration Platform**
