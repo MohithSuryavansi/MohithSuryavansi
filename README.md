@@ -114,7 +114,7 @@ width="300"
 ### ⚡ Inkraft — Distributed Collaborative Whiteboard
 **Fault-Tolerant Real-Time Collaboration Platform**
 
-<img src="YOUR_GIF_LINK" width="300"/>
+<img src="assets/Office Post It GIF by All Day Social.gif" width="300"/>
 
 **Tech Stack:** `Python` `WebSockets` `Raft` `Docker` `Kubernetes`
 
