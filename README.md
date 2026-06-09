@@ -96,7 +96,7 @@ SHAP Explainability
 ### 🏆 Maritime Intelligence System
 <div align="center">
 <img 
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpoMmcza3hjamppdGN5MDhwbDBhZnhhZ2JpZXVuY3QycXliaG9rOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/135zStc5hvtaMg/giphy.gif" 
+src="assets/crash-boat.gif" 
 width="300"
 />
 </div>
