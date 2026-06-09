@@ -127,7 +127,7 @@ width="300"
 ### 🤖 Autonomous Ticket Triage using RAG
 **LLM-Powered Workflow Automation System**
 
-<img src="YOUR_GIF_LINK" width="300"/>
+<img src="assets/Software Engineer Crying GIF by MESA My Emotional Support Animal.gif" width="300"/>
 
 **Tech Stack:** `Python` `LLMs` `RAG` `Vector DB` `FastAPI`
 
